@@ -1,2 +1,2 @@
-# Flutter-Auth-with-JWT
-A generic login and registration logic for Flutter applications with a simple UI. This project utilizes JWT authentication, ensuring proper authorization for every request. The backend is implemented in ASP.NET (not included in this repository)
+# Flutter User Authentication and Authorization with JWT 🔐
+A generic login and registration logic for Flutter applications with a simple UI. This project utilizes JWT Authorization and user credentials for Authentication with email and password, and registers with unique username, email and password . The backend is implemented in ASP.NET (not included in this repository but the code can be utilized with different backend services)
